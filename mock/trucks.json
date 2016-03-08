@@ -1,0 +1,3218 @@
+[  
+    {  
+        "id":2,
+        "name":"Bombay Blvd.",
+        "facility_type":"Truck",
+        "description":"Indian Style: BBQ: Variety of Curries: Rice: Wraps: Breads (Naan: Rotis: Parathas): Desserts: Pizza.  Beverages: Condiments: Indian Soups: Salads \u0026 Appetizer Varieties.",
+        "address":"333 MARKET ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Su:10AM-3PM/5PM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7917780021754,
+                "Lng":-122.397517086459
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":4,
+        "name":"Bombay Blvd.",
+        "facility_type":"Truck",
+        "description":"Indian Style: BBQ: Variety of Curries: Rice: Wraps: Breads (Naan: Rotis: Parathas): Desserts: Pizza.  Beverages: Condiments: Indian Soups: Salads \u0026 Appetizer Varieties.",
+        "address":"86 03RD ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Su:10AM-3PM/5PM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7862060958787,
+                "Lng":-122.402532491336
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":5,
+        "name":"Sausage Slinger",
+        "facility_type":"Push Cart",
+        "description":"Hot Dogs: Chips and Soda",
+        "address":"100 NEW MONTGOMERY ST",
+        "status":"SUSPEND",
+        "opening_times":"Mo-Fr:8AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7870415696457,
+                "Lng":-122.400427155574
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":6,
+        "name":"Halal Cart",
+        "facility_type":"Push Cart",
+        "description":"Kebab: Halal Gyros: Grilled Halal Meat: Beverages",
+        "address":"901 MARKET ST",
+        "status":"REQUESTED",
+        "opening_times":"Sa-Su:12AM-3AM;Mo-Su:10AM-8PM;Fr/Sa:9PM-12AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7834700798603,
+                "Lng":-122.408040736128
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":7,
+        "name":"Bacon Bacon",
+        "facility_type":"Truck",
+        "description":"Bacon burger: bacon grilled cheese: bacon sandwiches: bacon tacos: bacon fries: bacon strips: bacon caramel corn",
+        "address":"250 CLAY ST",
+        "status":"REQUESTED",
+        "opening_times":"Tu/We/Fr:6AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7957009190825,
+                "Lng":-122.398489753577
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":8,
+        "name":"Bacon Bacon",
+        "facility_type":"Truck",
+        "description":"Bacon burger: bacon grilled cheese: bacon sandwiches: bacon tacos: bacon fries: bacon strips: bacon caramel corn",
+        "address":"600 FRONT ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo/We/Th:10AM-7PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7974551705463,
+                "Lng":-122.399011222811
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":9,
+        "name":"The Chai Cart",
+        "facility_type":"Push Cart",
+        "description":"Hot Indian Chai (Tea)",
+        "address":"79 NEW MONTGOMERY ST",
+        "status":"SUSPEND",
+        "opening_times":"Mo-Su:7AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7878897136792,
+                "Lng":-122.400535326768
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":10,
+        "name":"The Chai Cart",
+        "facility_type":"Push Cart",
+        "description":"Hot Indian Chai (Tea) \u0026 Prepackaged Indian Snacks.",
+        "address":"400 MONTGOMERY ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Su:7AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7931486407515,
+                "Lng":-122.402567175568
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":11,
+        "name":"French Creme Brulee",
+        "facility_type":"Push Cart",
+        "description":"Creme Brulee: Creme au Chocolat: Creme au Caramel:  Panna Cotta: Mini Cheesecakes: Pumpkin Cake: Salade De Fruits: Crepes with Fruit: Cold Drinks: Ice Cream: Water.",
+        "address":"720 MARKET ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:8AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.787598429328,
+                "Lng":-122.404090439424
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":13,
+        "name":"Your Community Foods",
+        "facility_type":"Truck",
+        "description":"Wraps: Sandwiches: Chicken Wings: Fries: Lemonade: Juices",
+        "address":"5048 03RD ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:10AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7327945058551,
+                "Lng":-122.391768324822
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":14,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 8722/Lot003",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7674330311242,
+                "Lng":-122.392149114162
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":15,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"2045 EVANS AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7477721054195,
+                "Lng":-122.397031718968
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":16,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"3040 HARRISON ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7488480703773,
+                "Lng":-122.412618994645
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":17,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 5598/Lot031",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7403038866252,
+                "Lng":-122.406059743484
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":18,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 7295/Lot022",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7300036970184,
+                "Lng":-122.478186325404
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":19,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"435 23RD ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7550307405717,
+                "Lng":-122.384530734213
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":20,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 4172/Lot010",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.757124574189,
+                "Lng":-122.388529515247
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":21,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 4058/Lot010",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7611830083041,
+                "Lng":-122.388118704067
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":22,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"1580 BURKE AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:8AM-9AM;Sa:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7447522054313,
+                "Lng":-122.385679248712
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":23,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"600 16TH ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:9AM-10AM;Mo-Fr:12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7674663009377,
+                "Lng":-122.390860289421
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":24,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"1140 07TH ST",
+        "status":"EXPIRED",
+        "opening_times":"Sa:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7682494005857,
+                "Lng":-122.398430650204
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":25,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 4227/Lot012",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7531551205222,
+                "Lng":-122.391174184446
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":26,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"66 POTRERO AVE",
+        "status":"EXPIRED",
+        "opening_times":"Sa:10AM-11AM;Mo-Fr:4PM-5PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7685433028161,
+                "Lng":-122.408492892429
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":27,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 5369/Lot003",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7381177854132,
+                "Lng":-122.404418467202
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":28,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"3335 17TH ST",
+        "status":"EXPIRED",
+        "opening_times":"Sa:10AM-11AM;Mo/Tu/We/Th/Fr:1PM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7631564070236,
+                "Lng":-122.420322231517
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":29,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 4046/Lot001",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7620084718284,
+                "Lng":-122.385441811558
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":30,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 5216/Lot030",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7454064432308,
+                "Lng":-122.390081224837
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":64,
+        "name":"The Sandwich Stand, LLC.",
+        "facility_type":"Truck",
+        "description":"",
+        "address":"50 MAIN ST",
+        "status":"REQUESTED",
+        "opening_times":"",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7923635281798,
+                "Lng":-122.396434007966
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":31,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 4103/Lot023A",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7583034094443,
+                "Lng":-122.393514054807
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":33,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"151 MENDELL ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7428202484928,
+                "Lng":-122.382847355508
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":34,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 3941/Lot001",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7647413364705,
+                "Lng":-122.387124812169
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":35,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"555 MISSOURI ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:9AM-10AM/12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7593037801842,
+                "Lng":-122.395902231226
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":36,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 4296/Lot010",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7524050062858,
+                "Lng":-122.387000196288
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":37,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 4241/Lot002",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7533400149877,
+                "Lng":-122.384128384227
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":38,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"950 HARRISON ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7783886295689,
+                "Lng":-122.403191783219
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":39,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"1801 EVANS AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7445912089067,
+                "Lng":-122.393076880848
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":40,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"400 ALEMANY BLVD",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7331424089687,
+                "Lng":-122.414568632409
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":41,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 4281a/Lot012A",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7507607832692,
+                "Lng":-122.401540291347
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":42,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"50 QUINT ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:7AM-8AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7464705204604,
+                "Lng":-122.388990808645
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":43,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"888 MARIN ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7494583428374,
+                "Lng":-122.385081339669
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":44,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"3201 03RD ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.748445352649,
+                "Lng":-122.38687903197
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":45,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"350 KANSAS ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7653706831121,
+                "Lng":-122.403907848202
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":47,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 8722/Lot001",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.767995559478,
+                "Lng":-122.387549426537
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":48,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"146 CONNECTICUT ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:9AM-10AM/1PM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7644473093577,
+                "Lng":-122.397987371498
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":49,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"Assessors Block 8732/Lot001",
+        "status":"EXPIRED",
+        "opening_times":"Sa/Sa/Sa/Sa/Sa:12AM-1AM;Mo/Mo/Mo/Mo/Mo:6AM-7AM/8AM-9AM;Su/Su/Su/Su/Su:9AM-10AM;Mo/Mo/Mo/Mo/Mo:9AM-1",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7707029898873,
+                "Lng":-122.390790355557
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":50,
+        "name":"Natan's Catering",
+        "facility_type":"Truck",
+        "description":"Burgers: melts: hot dogs: burritos:sandwiches: fries: onion rings: drinks",
+        "address":"1650 03RD ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:9AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7691244259594,
+                "Lng":-122.391474911236
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":51,
+        "name":"Tacos Santana",
+        "facility_type":"Truck",
+        "description":"Tacos: Burritos : Tortas: Quesadillas \u0026 Beverages",
+        "address":"2101 CARROLL AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Su:10AM-9PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7302216951339,
+                "Lng":-122.402978526676
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":52,
+        "name":"Tacos Santana",
+        "facility_type":"Truck",
+        "description":"Tacos: Burritos : Tortas: Quesadillas \u0026 Beverages",
+        "address":"1700 JERROLD AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Su:11AM-5PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7424952097399,
+                "Lng":-122.391617595088
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":53,
+        "name":"Tacos Santana",
+        "facility_type":"Truck",
+        "description":"Tacos: Burritos : Tortas: Quesadillas \u0026 Beverages",
+        "address":"2142 JERROLD AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Su:5PM-10PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.74451859648,
+                "Lng":-122.398940846618
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":54,
+        "name":"Tacos Santana",
+        "facility_type":"Truck",
+        "description":"Tacos: Burritos : Tortas: Quesadillas \u0026 Beverages",
+        "address":"1800 FOLSOM ST",
+        "status":"REQUESTED",
+        "opening_times":"",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7678524565106,
+                "Lng":-122.416104892522
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":55,
+        "name":"Benny's",
+        "facility_type":"Truck",
+        "description":"Hot/cold sandwiches: anticuchos pervanos: natural juices: sodas: coffee: pastry:",
+        "address":"1217 FLORIDA ST",
+        "status":"REQUESTED",
+        "opening_times":"",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7525274916837,
+                "Lng":-122.409872355387
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":56,
+        "name":"Teresa Hotdogs",
+        "facility_type":"Truck",
+        "description":"Hot dogs \u0026 various beverages",
+        "address":"2367 MARKET ST",
+        "status":"REQUESTED",
+        "opening_times":"Su/Fr/Sa:12AM-3AM;Th/Fr/Sa:10PM-12AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7628387208928,
+                "Lng":-122.434351868921
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":57,
+        "name":"Teresa Hotdogs",
+        "facility_type":"Truck",
+        "description":"Hot dogs \u0026 various beverages",
+        "address":"4111 18TH ST",
+        "status":"REQUESTED",
+        "opening_times":"",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7606817825516,
+                "Lng":-122.435257895798
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":58,
+        "name":"Teresa Hotdogs",
+        "facility_type":"Truck",
+        "description":"Hot dogs \u0026 various beverages",
+        "address":"444 CASTRO ST",
+        "status":"REQUESTED",
+        "opening_times":"",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7617489518055,
+                "Lng":-122.435401104393
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":59,
+        "name":"Mr. Nice, LLC",
+        "facility_type":"Truck",
+        "description":"100% Grass fed beef hot dogs: wellshire bacon wrapped hot dogs: beef \u0026 heirloom pork spicy link: smoked pork bratwurst: organic chicken apple sausage: Irish breakfast rolls: sandwiches: various sides (fries: potato salad: coleslaw: salad) \u0026 ice cream.",
+        "address":"235 15TH ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:7AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7669767702637,
+                "Lng":-122.403123093919
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":60,
+        "name":"Sinthya's Hot Dogs",
+        "facility_type":"Truck",
+        "description":"Hot dogs: chips: soda: corn on the cob: french fries",
+        "address":"301 06TH ST",
+        "status":"REQUESTED",
+        "opening_times":"Th/Fr/Sa:10PM-3AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7784419129936,
+                "Lng":-122.405086420942
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":61,
+        "name":"Sinthya's Hot Dogs",
+        "facility_type":"Truck",
+        "description":"Hot dogs: chips: soda: corn on the cob: french fries",
+        "address":"2664 MISSION ST",
+        "status":"REQUESTED",
+        "opening_times":"Su/We/Th/Fr/Sa:5PM-9PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7543023996632,
+                "Lng":-122.419000119479
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":62,
+        "name":"Sinthya's Hot Dogs",
+        "facility_type":"Truck",
+        "description":"Hot dogs: chips: soda: corn on the cob: french fries",
+        "address":"1155 FOLSOM ST",
+        "status":"REQUESTED",
+        "opening_times":"Th/Fr/Sa:10PM-3AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7756306445442,
+                "Lng":-122.408828372359
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":63,
+        "name":"Mario's Colombian and Mexican Food",
+        "facility_type":"Truck",
+        "description":"Mexican: Tacos: quesadillas: burritos: tortas. Colombian: Chorizo con arepa: potatoes \u0026 sausage: empanadas: arepa rellana: potatoes \u0026 guacamole.",
+        "address":"1575 SOUTH VAN NESS AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-We:10AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7484893987889,
+                "Lng":-122.415562670844
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":65,
+        "name":"Yummy Hot Dogs",
+        "facility_type":"Push Cart",
+        "description":"Hot dogs: pretzels: chips: juices and cold drinks",
+        "address":"954 MARKET ST",
+        "status":"APPROVED",
+        "opening_times":"Tu/Th/Sa:10AM-7PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7831754345113,
+                "Lng":-122.409568315537
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":66,
+        "name":"Yummy Hot Dogs",
+        "facility_type":"Push Cart",
+        "description":"Hot dogs: pretzels: chips: juices and cold drinks",
+        "address":"945 MARKET ST",
+        "status":"APPROVED",
+        "opening_times":"Mo/We/Fr:10AM-7PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7828341774764,
+                "Lng":-122.408837940436
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":67,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"150 RUSS ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7780755485344,
+                "Lng":-122.407711134257
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":68,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"55 09TH ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:9AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7770972846803,
+                "Lng":-122.415102651351
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":69,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"716 TEHAMA ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7756237849093,
+                "Lng":-122.411781357735
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":70,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"532 FOLSOM ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:10AM-12PM;Mo-Fr:12PM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7868183168104,
+                "Lng":-122.395660566056
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":71,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"180 MONTGOMERY ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:1PM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7907358243064,
+                "Lng":-122.40196900167
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":72,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"180 NEW MONTGOMERY ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:1PM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7862510212184,
+                "Lng":-122.399520766934
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":74,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"1 SANSOME ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:7AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7904851598986,
+                "Lng":-122.40094044068
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":75,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"1300 HOWARD ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7750297766657,
+                "Lng":-122.413686791238
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":76,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"699 08TH ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7710220130332,
+                "Lng":-122.403546254174
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":77,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"690 POTRERO AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7608669651463,
+                "Lng":-122.407429830881
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":78,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"350 TREAT AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7645273196895,
+                "Lng":-122.413628336653
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":79,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"1523 HOWARD ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7726358317934,
+                "Lng":-122.415726650725
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":80,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"175 LANGTON ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7755336552287,
+                "Lng":-122.407115289192
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":81,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"1150 FOLSOM ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7759504250457,
+                "Lng":-122.409294222059
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":82,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"640 NATOMA ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7777909429263,
+                "Lng":-122.411000005333
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":83,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"171 LANGTON ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7756064467403,
+                "Lng":-122.40720707414
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":84,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"1130 HOWARD ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7776555561786,
+                "Lng":-122.410401545168
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":85,
+        "name":"Sun Rise Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: sandwiches: drinks: snacks: candy: hot coffee",
+        "address":"560 NATOMA ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7792068018372,
+                "Lng":-122.409199456413
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":86,
+        "name":"Bob Johnson",
+        "facility_type":"Truck",
+        "description":"Watermelon",
+        "address":"Assessors Block 0733/Lot010",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:10AM-7PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7821435467078,
+                "Lng":-122.430449785939
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":87,
+        "name":"Bob Johnson",
+        "facility_type":"Truck",
+        "description":"Watermelon",
+        "address":"1709 REVERE AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:10AM-7PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7325595927586,
+                "Lng":-122.392063194959
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":88,
+        "name":"Del Popolo, LLC.",
+        "facility_type":"Truck",
+        "description":"Wood Fired Pizzas",
+        "address":"2772 MARIPOSA ST",
+        "status":"EXPIRED",
+        "opening_times":"Sa-Su:8AM-11PM;Mo-Fr:5PM-11PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7632929325259,
+                "Lng":-122.41074477292
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":89,
+        "name":"Del Popolo, LLC.",
+        "facility_type":"Truck",
+        "description":"Wood Fired Pizzas",
+        "address":"600 FRONT ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:8AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7974551705463,
+                "Lng":-122.399011222811
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":90,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"2380 SAN BRUNO AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7325564882465,
+                "Lng":-122.405854656101
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":91,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"75 INDUSTRIAL ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7392166000826,
+                "Lng":-122.400864373295
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":93,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"1485 YOSEMITE AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7252957356165,
+                "Lng":-122.389765731246
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":94,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"1760 YOSEMITE AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7287554933347,
+                "Lng":-122.394408901491
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":95,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"1828 EGBERT AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7275936157523,
+                "Lng":-122.400117226053
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":96,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"1455 BANCROFT AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7237285523763,
+                "Lng":-122.390326357752
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":97,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"1900 OAKDALE AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7383020347837,
+                "Lng":-122.396036145048
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":98,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"1785 EGBERT AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7260861845053,
+                "Lng":-122.398332406167
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":99,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"1843 EGBERT AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7271654873259,
+                "Lng":-122.401093930715
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":100,
+        "name":"Bach Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Cheeseburgers: Burgers: Chicken Bake: Chili Dogs: Hot Dogs: Corn Dogs: Cup of Noodles: Egg Muffins: Tamales: Hot Sandwiches Quesadillas: Gatorade: Juice: Soda: Mikl: Coffee: Hot Cocoa: Hot Tea: Flan: Fruits: Fruit Salad: Yogurt: Candy: Chips:  Donuts: Cookies: Granola: Muffins \u0026 Various Drinks \u0026 Pre-Packaged Snacks.",
+        "address":"350 SANSOME ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Fr:6AM-8AM/11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7937828906065,
+                "Lng":-122.401001311983
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":101,
+        "name":"Cheese Gone Wild",
+        "facility_type":"Truck",
+        "description":"Grilled Cheese Sandwiches",
+        "address":"1801 VAN NESS AVE",
+        "status":"EXPIRED",
+        "opening_times":"Th:6AM-10AM;Mo/Sa:6AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7923033968441,
+                "Lng":-122.423131922084
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":102,
+        "name":"Cheese Gone Wild",
+        "facility_type":"Truck",
+        "description":"Grilled Cheese Sandwiches",
+        "address":"400 HOWARD ST",
+        "status":"EXPIRED",
+        "opening_times":"Tu:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7891192214396,
+                "Lng":-122.395881039325
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":103,
+        "name":"Cheese Gone Wild",
+        "facility_type":"Truck",
+        "description":"Grilled Cheese Sandwiches",
+        "address":"233 SANSOME ST",
+        "status":"EXPIRED",
+        "opening_times":"Th:10AM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7926094148876,
+                "Lng":-122.401314905442
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":104,
+        "name":"Cheese Gone Wild",
+        "facility_type":"Truck",
+        "description":"Grilled Cheese Sandwiches",
+        "address":"555 HOWARD ST",
+        "status":"EXPIRED",
+        "opening_times":"Fr:3PM-8PM;Th:4PM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7873788555836,
+                "Lng":-122.396874967153
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":105,
+        "name":"Cheese Gone Wild",
+        "facility_type":"Truck",
+        "description":"Grilled Cheese Sandwiches",
+        "address":"",
+        "status":"EXPIRED",
+        "opening_times":"We:6AM-3PM;Su:6AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7982530079346,
+                "Lng":-122.399171569514
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":106,
+        "name":"A Taste of Chicago",
+        "facility_type":"Push Cart",
+        "description":"Breakfast sandwiches: mixed coffee drinks: fried chicken: hamburgers: hot dogs: hot links: tacos: pizza: rotisserrie chicken: fish sticks: deli sandwiches: burritos: philly cheese steak: rice: baked potato: cold beverages: teas: juices: salads: bbq ribs: french fries: yogurt and bread",
+        "address":"345 WILLIAMS AVE",
+        "status":"REQUESTED",
+        "opening_times":"Su/Fr/Sa:6AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7298054944035,
+                "Lng":-122.399247104715
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":107,
+        "name":"The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs",
+        "facility_type":"Push Cart",
+        "description":"Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks",
+        "address":"870 MARKET ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:6AM-9PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7851109342236,
+                "Lng":-122.407422668267
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":108,
+        "name":"The New York Frankfurter Co. of CA, Inc. DBA: Annie's Hot Dogs",
+        "facility_type":"Push Cart",
+        "description":"Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks",
+        "address":"101 STOCKTON ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:6AM-9PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7868561256572,
+                "Lng":-122.406891892987
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":109,
+        "name":"Wexler, LLC",
+        "facility_type":"Truck",
+        "description":"Traditional BBQ: Chicken: Ribs: Sandwiches: Sausages",
+        "address":"565 COMMERCIAL ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:9AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7941166694765,
+                "Lng":-122.40242362611
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":110,
+        "name":"The Creme Brulee Cart",
+        "facility_type":"Push Cart",
+        "description":"Creme Brulee",
+        "address":"532 MARKET ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:11AM-9PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7905483319538,
+                "Lng":-122.400333673669
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":111,
+        "name":"San Francisco Carts \u0026 Concessions, Inc. DBA Stanley's Steamers Hot Dogs",
+        "facility_type":"Push Cart",
+        "description":"Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: pastries: bakery goods: cookies: ice cream: candy: soups: churros: chestnuts: nuts: fresh fruit: fruit juices: desserts: potato chips and popcorn.",
+        "address":"345 STOCKTON ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:6AM-12AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7889101633426,
+                "Lng":-122.407196034112
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":112,
+        "name":"La Falafel",
+        "facility_type":"Truck",
+        "description":"Falafel Sandwiches: Fries: Soda: Iced Tea \u0026 Various Drinks.",
+        "address":"337 VALENCIA ST",
+        "status":"EXPIRED",
+        "opening_times":"Tu/We/Th:11AM-4PM;Fr/Sa:4PM-11PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7674566528998,
+                "Lng":-122.421788343106
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":113,
+        "name":"La Falafel",
+        "facility_type":"Truck",
+        "description":"Falafel Sandwiches: Fries: Soda: Iced Tea \u0026 Various Drinks.",
+        "address":"363 VALENCIA ST",
+        "status":"EXPIRED",
+        "opening_times":"Tu/We/Th:11AM-4PM;Fr/Sa:4PM-11PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7671264785713,
+                "Lng":-122.421782736129
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":114,
+        "name":"GOZA GOZA TACO",
+        "facility_type":"Truck",
+        "description":"Tacos: burritos: soda \u0026 juice",
+        "address":"1501 FOLSOM ST",
+        "status":"EXPIRED",
+        "opening_times":"Sa-Su:12AM-3AM;Fr/Sa:9PM-12AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7715867164593,
+                "Lng":-122.414007043014
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":115,
+        "name":"GOZA GOZA TACO",
+        "facility_type":"Truck",
+        "description":"Tacos: burritos: soda \u0026 juice",
+        "address":"1455 MARKET ST",
+        "status":"EXPIRED",
+        "opening_times":"Mo/Tu/We/Th/Fr:7AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7752283216194,
+                "Lng":-122.41746613186
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":116,
+        "name":"GOZA GOZA TACO",
+        "facility_type":"Truck",
+        "description":"Tacos: burritos: soda \u0026 juice",
+        "address":"3065 25TH ST",
+        "status":"EXPIRED",
+        "opening_times":"Su:10AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7509316614491,
+                "Lng":-122.411419966196
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":117,
+        "name":"El Tonayense #60",
+        "facility_type":"Truck",
+        "description":"Tacos: Burritos: Tortas: Quesadillas: Drinks",
+        "address":"401 TREAT AVE",
+        "status":"EXPIRED",
+        "opening_times":"Mo-Su:10AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7631083391738,
+                "Lng":-122.413454890012
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":119,
+        "name":"Raspados El Yocateco",
+        "facility_type":"Push Cart",
+        "description":"Shaved Ice: Tamarind: Strawberry: Lemon: horchata: hibiscus",
+        "address":"2100 MISSION ST",
+        "status":"REQUESTED",
+        "opening_times":"Su/Tu/Th:12PM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.763227916341,
+                "Lng":-122.419795019118
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":120,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"1540 PINE ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7898269325346,
+                "Lng":-122.421126289046
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":121,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"740 VALENCIA ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7609571820778,
+                "Lng":-122.421824199348
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":122,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"1652 EDDY ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7815967595395,
+                "Lng":-122.43485778843
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":123,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"544 02ND ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:7AM-8AM/10AM-11AM/11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7824235770731,
+                "Lng":-122.393236399388
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":124,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"500 MASONIC AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:6AM-7AM/11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7765500566032,
+                "Lng":-122.446307635548
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":126,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"85 02ND ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:7AM-8AM/10AM-11AM/12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7884570426015,
+                "Lng":-122.399884160556
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":127,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"Assessors Block 3902/Lot002",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:7AM-8AM/10AM-11AM/12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7683070065921,
+                "Lng":-122.412000336082
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":128,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"432 CLAY ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:7AM-8AM/10AM-11AM/12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7951055747476,
+                "Lng":-122.400876633716
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":129,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"1 THOMAS MORE WAY",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:7AM-8AM/10AM-11AM/12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7100033481381,
+                "Lng":-122.471411913119
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":130,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"3300 CESAR CHAVEZ ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:8AM-9AM/11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7485498080704,
+                "Lng":-122.416170661998
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":131,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"1118 MISSION ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7791572191227,
+                "Lng":-122.411615430509
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":132,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"1240 MINNESOTA ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:1PM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7546149652946,
+                "Lng":-122.39038813201
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":133,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"1580 DAVIDSON AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:2PM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7456930399344,
+                "Lng":-122.390714584811
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":134,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"1570 BURKE AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:2PM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7447522054313,
+                "Lng":-122.385679248712
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":136,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"599 MASONIC AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7807231613244,
+                "Lng":-122.447789640468
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":137,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"2401 22ND ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7556370236367,
+                "Lng":-122.405101930369
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":138,
+        "name":"Mang Hang Catering",
+        "facility_type":"Truck",
+        "description":"COLD TRUCK. Deli: bbq chicken skewer: Chinese spring roll: Chinese fried rice/noodle: fried chicken leg/wing: bbq chicken sandwich: chicken cheese burger: burrito: lumpia. Snack: sunflower seeds: muffins: chips: snickers: kit-kat: 10 types of chocolate. Drinks: Coke: 7-Up: Dr. Pepper: Pepsi: Redbull: Vitamin Water: Rockstar: Coconut Juice: Water. Hot drinks: coffee: tea.",
+        "address":"730 ELLIS ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.784420750676,
+                "Lng":-122.418405351773
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":139,
+        "name":"Mob Dog",
+        "facility_type":"Push Cart",
+        "description":"Hot Dogs: Chips: Bottled Drinks",
+        "address":"720 MARKET ST",
+        "status":"APPROVED",
+        "opening_times":"Th/Fr/Sa:8AM-10PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.787598429328,
+                "Lng":-122.404090439424
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":140,
+        "name":"Eva's Catering",
+        "facility_type":"Truck",
+        "description":"Corndogs: fried burrito: rice placet: soda: water: sandwiches: soup: noodle plates",
+        "address":"2600 INGALLS ST",
+        "status":"APPROVED",
+        "opening_times":"Mo/We/Fr:10AM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7226292314347,
+                "Lng":-122.390061846317
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":142,
+        "name":"Missing Link SF",
+        "facility_type":"",
+        "description":"smoked sausages: deer: wild boar: pheasant: buffalo: beef: turkey: coleslaw: vegetarian baked beans",
+        "address":"97 01ST ST",
+        "status":"REQUESTED",
+        "opening_times":"Tu/Th/Fr:11AM-9PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7901633979667,
+                "Lng":-122.39754345992
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":143,
+        "name":"Bicycle Coffee",
+        "facility_type":"Unknown",
+        "description":"Cold Brew Coffee",
+        "address":"564 COMMERCIAL ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-We:8AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7944080490974,
+                "Lng":-122.402585204055
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":144,
+        "name":"Roadside Rotisserie Corporation / Country Grill",
+        "facility_type":"Truck",
+        "description":"Rotisserie Chicken: Ribs: Kickass Salad: Potatos w/fat dripping: chicken wrap.",
+        "address":"90 BROADWAY",
+        "status":"APPROVED",
+        "opening_times":"Mo/We/Fr:10AM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7992601272644,
+                "Lng":-122.399617948646
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":145,
+        "name":"Loma Linda",
+        "facility_type":"",
+        "description":"Tacos: Tortas: Burritos",
+        "address":"2065 OAKDALE AVE",
+        "status":"REQUESTED",
+        "opening_times":"We/Th/Fr:8AM-5PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7392448394358,
+                "Lng":-122.399352876427
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":146,
+        "name":"Bomba",
+        "facility_type":"Truck",
+        "description":"Sandwiches",
+        "address":"345 CALIFORNIA ST",
+        "status":"REQUESTED",
+        "opening_times":"Tu/Th/Fr:11AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7926023505608,
+                "Lng":-122.400438864941
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":148,
+        "name":"Julie's Hot Dogs",
+        "facility_type":"Truck",
+        "description":"Soda: chips: energy drinks: hot dogs: bacon-wrapped hot dogs: fruit: corn",
+        "address":"2601 MISSION ST",
+        "status":"REQUESTED",
+        "opening_times":"Th/Fr/Sa:12PM-3AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7550675557452,
+                "Lng":-122.41802613268
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":149,
+        "name":"Julie's Hot Dogs",
+        "facility_type":"Truck",
+        "description":"Hot dogs: Bacon wrapped hot dogs: soda: water: sports drinks: energy drinks: chips",
+        "address":"2401 MISSION ST",
+        "status":"APPROVED",
+        "opening_times":"Su/Fr/Sa:12AM-3AM;Th/Fr/Sa:10PM-12AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7584372581758,
+                "Lng":-122.418678308219
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":150,
+        "name":"SF Cart Project",
+        "facility_type":"Truck",
+        "description":"7 Multiple Trucks on rotation (1 on Mission Bay Blvd South \u0026 6 on 4th St).   Serving everything but hot dogs",
+        "address":"535 MISSION BAY BLVD SOUTH",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7691244259594,
+                "Lng":-122.391474911236
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":151,
+        "name":"Off the Grid Services, LLC",
+        "facility_type":"Truck",
+        "description":"everything except for hot dogs",
+        "address":"250 04TH ST",
+        "status":"APPROVED",
+        "opening_times":"Mo/We:10AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.782360134796,
+                "Lng":-122.402095994553
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":152,
+        "name":"Off the Grid Services, LLC",
+        "facility_type":"Truck",
+        "description":"everything except for hot dogs",
+        "address":"90 BROADWAY",
+        "status":"APPROVED",
+        "opening_times":"Fr:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7992601272644,
+                "Lng":-122.399617948646
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":153,
+        "name":"Off the Grid Services, LLC",
+        "facility_type":"Truck",
+        "description":"everything except for hot dogs",
+        "address":"185 BERRY ST",
+        "status":"APPROVED",
+        "opening_times":"Sa:11AM-4PM;Th:4PM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7763271615743,
+                "Lng":-122.391796821067
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":154,
+        "name":"Off the Grid Services, LLC",
+        "facility_type":"Truck",
+        "description":"everything except for hot dogs",
+        "address":"185 BERRY ST",
+        "status":"APPROVED",
+        "opening_times":"Su:10AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7763271615743,
+                "Lng":-122.391796821067
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":155,
+        "name":"Off the Grid Services, LLC",
+        "facility_type":"Truck",
+        "description":"Everything",
+        "address":"670 05TH ST",
+        "status":"APPROVED",
+        "opening_times":"Mo/We/Fr:8AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7755890937444,
+                "Lng":-122.397976906371
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":156,
+        "name":"Off the Grid Services, LLC",
+        "facility_type":"Truck",
+        "description":"Everything",
+        "address":"340 BRANNAN ST",
+        "status":"APPROVED",
+        "opening_times":"Tu/Th:8AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7812646998024,
+                "Lng":-122.393229041528
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":157,
+        "name":"Off the Grid Services, LLC",
+        "facility_type":"Truck",
+        "description":"everything except for hot dogs",
+        "address":"90 BROADWAY",
+        "status":"APPROVED",
+        "opening_times":"Mo/We/Fr:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7992601272644,
+                "Lng":-122.399617948646
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":158,
+        "name":"Slider Shack, LLC.",
+        "facility_type":"Truck",
+        "description":"Sliders: Tater Tots: Beverages",
+        "address":"400 HOWARD ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo/Th/Fr:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7891192214396,
+                "Lng":-122.395881039325
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":159,
+        "name":"Slider Shack, LLC.",
+        "facility_type":"Truck",
+        "description":"Sliders: Tater Tots: Beverages",
+        "address":"60 SPEAR ST",
+        "status":"REQUESTED",
+        "opening_times":"Tu/We:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7925360021997,
+                "Lng":-122.394593199225
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":160,
+        "name":"El Gallo Jiro",
+        "facility_type":"Truck",
+        "description":"Burritos: Giros: Tortas: Quesadillas: Tacos \u0026 Various Beverages",
+        "address":"3055 23RD ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo/Tu/We/Th/Fr:10AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7539277495326,
+                "Lng":-122.413323129608
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":161,
+        "name":"Celtic Catering",
+        "facility_type":"Truck",
+        "description":"Eritrean \u0026 Irish Fusion Burgers: Irish Stew: Eritrean Stew:  Shepard's Pie: Beverages",
+        "address":"217 SANSOME ST",
+        "status":"APPROVED",
+        "opening_times":"We:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.792389875752,
+                "Lng":-122.401269695226
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":162,
+        "name":"Celtic Catering",
+        "facility_type":"Truck",
+        "description":"Eritrean \u0026 Irish Fusion Burgers: Irish Stew: Eritrean Stew:  Shepard's Pie: Beverages",
+        "address":"611 FOLSOM ST",
+        "status":"APPROVED",
+        "opening_times":"Tu/Th:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7849799008494,
+                "Lng":-122.396536309744
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":163,
+        "name":"Leo's Hot Dogs",
+        "facility_type":"Push Cart",
+        "description":"Hot dogs and related toppings: non alcoholic beverages",
+        "address":"2301 MISSION ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Su:6PM-12AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7600869457871,
+                "Lng":-122.418806481091
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":164,
+        "name":"Golden Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks",
+        "address":"2401 BAY SHORE BLVD",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7109338068287,
+                "Lng":-122.402784538
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":166,
+        "name":"Golden Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks",
+        "address":"301 EXECUTIVE PARK BLVD",
+        "status":"APPROVED",
+        "opening_times":"Mo-Su:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.711632295042,
+                "Lng":-122.390016333627
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":167,
+        "name":"Golden Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks",
+        "address":"835 JAMESTOWN AVE",
+        "status":"APPROVED",
+        "opening_times":"Mo-Su:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7171741756453,
+                "Lng":-122.392222474614
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":168,
+        "name":"Golden Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Pre-packaged Sandwiches: Various Beverages: Salads: Snacks",
+        "address":"601 CRESCENT AVE",
+        "status":"APPROVED",
+        "opening_times":"Mo/Tu/We/Th/Fr:11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7350053129528,
+                "Lng":-122.415417409735
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":169,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"2890 03RD ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:6AM-9AM/12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7531087636781,
+                "Lng":-122.388170202056
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":170,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"1275 MINNESOTA ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7542517226994,
+                "Lng":-122.38938122887
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":171,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"900 07TH ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7698289474925,
+                "Lng":-122.400101143033
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":172,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"355 BRANNAN ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7805610164563,
+                "Lng":-122.392849413014
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":173,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"444 TOWNSEND ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7748713300246,
+                "Lng":-122.398531708266
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":174,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"2800 03RD ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7537174307084,
+                "Lng":-122.388359021034
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":175,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"898 PENNSYLVANIA AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo/Tu/We/Th:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7555344854083,
+                "Lng":-122.393925277529
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":177,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"1500 TENNESSEE ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:8AM-10AM/10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.752241682288,
+                "Lng":-122.38918854258
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":178,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"1000 EVANS AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:8AM-10AM/11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7377268804175,
+                "Lng":-122.376572914563
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":179,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"1550 EVANS AVE",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.742989888592,
+                "Lng":-122.386773267166
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":181,
+        "name":"F \u0026 C Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot/Cold Sandwiches: Water: Soda: Juice: Snacks: Milk: Candies: Canned Food: Soups: Cup of Noodles: Fruit: Salad",
+        "address":"700 25TH ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:12PM-1PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7533808237814,
+                "Lng":-122.386367685847
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":182,
+        "name":"Taza Halal Cart",
+        "facility_type":"Push Cart",
+        "description":"Chicken gyro: lamb gyro: chicken gyro plate:lamb gyro plate: combination gyro plate",
+        "address":"555 MARKET ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-We:10AM-9PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.789889891981,
+                "Lng":-122.399930411341
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":183,
+        "name":"Taza Halal Cart",
+        "facility_type":"Push Cart",
+        "description":"Gyro Sandwich: Chicken Sandwich: lamb over rice: chicken over rice: combination over rice",
+        "address":"572 MARKET ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-We:10AM-9PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7898116114903,
+                "Lng":-122.401342389324
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":184,
+        "name":"Tacos El Ojo De Agua",
+        "facility_type":"Truck",
+        "description":"Tacos: Burritos: Tortas: Quesadillas: Salads: Soup: Fruits: Juices: Soda: Water",
+        "address":"551 03RD ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:9AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7806472238285,
+                "Lng":-122.394629181652
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":185,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"1799 03RD ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:6AM-7AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.767995559478,
+                "Lng":-122.387549426537
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":186,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"201 BERRY ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:6AM-7AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7755661681996,
+                "Lng":-122.393279842331
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":187,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"30 BEALE ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:7AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7917770921335,
+                "Lng":-122.397132524452
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":188,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"945 BRYANT ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7730940982598,
+                "Lng":-122.405145856475
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":189,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"840 BRANNAN ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.772561703562,
+                "Lng":-122.404474024001
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":190,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"950 BRYANT ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7736109933029,
+                "Lng":-122.405958407102
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":191,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"975 INDIANA ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7581699534173,
+                "Lng":-122.390900582657
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":192,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"516 TOWNSEND ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7734452287087,
+                "Lng":-122.400482576536
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":193,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"1150 25TH ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:8AM-9AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7531390517853,
+                "Lng":-122.390246816972
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":194,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"175 BARNEVELD AVE",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7448024331792,
+                "Lng":-122.402540218917
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":195,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"71 WILLIAMS AVE",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7292233514237,
+                "Lng":-122.394613062654
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":196,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"235 BERRY ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:9AM-10AM/11AM-12PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7747030612546,
+                "Lng":-122.39408939656
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":197,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"599 08TH ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:12PM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7718682395557,
+                "Lng":-122.405657636241
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":200,
+        "name":"Two G's Catering",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Hot \u0026 Cold Sandwiches: Bagels: Burritos: Soups: Hot Dogs: Tacos: Pork Buns: BBQ Meat: Fruit: Various Beverages: Pasties: Pre-Packaged Snacks: Candy: Salads: Muffins: Scones: Brownies: Croissants: Energy Bars: Noodle Bowls",
+        "address":"Assessors Block 8720/Lot008",
+        "status":"APPROVED",
+        "opening_times":"Mo-Su:10AM-11AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7711580507508,
+                "Lng":-122.386931257552
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":202,
+        "name":"Senor Sisig",
+        "facility_type":"Truck",
+        "description":"Filipino fusion food: taco: burrito: nachos: rice plates",
+        "address":"120 ELLIS ST",
+        "status":"APPROVED",
+        "opening_times":"Sa-Su:11AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7856101001445,
+                "Lng":-122.408154764336
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":203,
+        "name":"Senor Sisig",
+        "facility_type":"Truck",
+        "description":"Filipino fusion food: taco: burrito: nachos: rice plates",
+        "address":"120 02ND ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:11AM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7875140745116,
+                "Lng":-122.399566331419
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":205,
+        "name":"Senor Sisig",
+        "facility_type":"Truck",
+        "description":"Senor Sisig: Filipino fusion food: tacos: burritos: nachos: rice plates. Various beverages.Chairman Bao: Vegetable and meat sandwiches filled with Asian-flavored meats and vegetables.",
+        "address":"8 10TH ST",
+        "status":"APPROVED",
+        "opening_times":"Mo/We/Fr:11AM-2PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7758255335431,
+                "Lng":-122.417249626633
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":206,
+        "name":"Expresso Subito, LLC.",
+        "facility_type":"Truck",
+        "description":"Espresso Drinks",
+        "address":"84 02ND ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo/We/Fr:6AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7881050754192,
+                "Lng":-122.400289778395
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":207,
+        "name":"Expresso Subito, LLC.",
+        "facility_type":"Truck",
+        "description":"Espresso Drinks",
+        "address":"150 CALIFORNIA ST",
+        "status":"REQUESTED",
+        "opening_times":"Tu/Th:6AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7936733952722,
+                "Lng":-122.398463509476
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":208,
+        "name":"Expresso Subito, LLC.",
+        "facility_type":"Truck",
+        "description":"Expresso drinks: assorted beverages (canned: bottled: home made): scones: croissants: bagels: soup: chili: parfaits: smoothies: frappes: milk shakes.",
+        "address":"150 CALIFORNIA ST",
+        "status":"REQUESTED",
+        "opening_times":"Mo-Fr:6AM-5PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7936733952722,
+                "Lng":-122.398463509476
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":209,
+        "name":"Creme Brulee To Go",
+        "facility_type":"Push Cart",
+        "description":"Kettle Corn",
+        "address":"870 MARKET ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:8AM-7PM;Sa-Su:11AM-7PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7851109342236,
+                "Lng":-122.407422668267
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":210,
+        "name":"Creme Brulee To Go",
+        "facility_type":"Push Cart",
+        "description":"Kettle Corn",
+        "address":"801 MARKET ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Su:11AM-7PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7849902930824,
+                "Lng":-122.405676629062
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":212,
+        "name":"Covered Dish Productions, LLC. dba. The Rib Whip",
+        "facility_type":"Truck",
+        "description":"St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac \u0026 Cheese: Potato Salad: Buttermil Pie: Soda: Water",
+        "address":"900 FRONT ST",
+        "status":"APPROVED",
+        "opening_times":"Fr:10AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.8002209293534,
+                "Lng":-122.399569018567
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":213,
+        "name":"Covered Dish Productions, LLC. dba. The Rib Whip",
+        "facility_type":"Truck",
+        "description":"St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac \u0026 Cheese: Potato Salad: Buttermil Pie: Soda: Water",
+        "address":"75 HOWARD ST",
+        "status":"APPROVED",
+        "opening_times":"Mo/We:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7915578779245,
+                "Lng":-122.391671499776
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":214,
+        "name":"Covered Dish Productions, LLC. dba. The Rib Whip",
+        "facility_type":"Truck",
+        "description":"St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac \u0026 Cheese: Potato Salad: Buttermil Pie: Soda: Water",
+        "address":"370 DRUMM ST",
+        "status":"APPROVED",
+        "opening_times":"Su:10AM-11PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.796913726248,
+                "Lng":-122.396650675254
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":215,
+        "name":"Covered Dish Productions, LLC. dba. The Rib Whip",
+        "facility_type":"Truck",
+        "description":"St. Louis Style Ribs: Pulled Pork Sandwich: Smoked Brisket: Smoked Chicken Drumsticks: Spinach Salad: Cole Slaw: Baked Beans: Mashed Potatoes: Grilled Asparagus: Mac \u0026 Cheese: Potato Salad: Buttermil Pie: Soda: Water",
+        "address":"253 DRUMM ST",
+        "status":"APPROVED",
+        "opening_times":"Tu/Th:10AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7961233940173,
+                "Lng":-122.397273204328
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":216,
+        "name":"Philz Coffee Truck",
+        "facility_type":"Truck",
+        "description":"Hot coffee: iced coffee: hot chocolate: tea: pastries",
+        "address":"301 PINE ST",
+        "status":"APPROVED",
+        "opening_times":"Mo/We/Fr:6AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7918342768248,
+                "Lng":-122.401279616586
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":217,
+        "name":"Philz Coffee Truck",
+        "facility_type":"Truck",
+        "description":"Hot coffee: iced coffee: hot chocolate: tea: pastries",
+        "address":"735 MONTGOMERY ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-We:6AM-6PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7962155103592,
+                "Lng":-122.403754558235
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":218,
+        "name":"Philz Coffee Truck",
+        "facility_type":"Truck",
+        "description":"Hot coffee: iced coffee: hot chocolate: tea: pastries",
+        "address":"556 SUTTER ST",
+        "status":"APPROVED",
+        "opening_times":"Th/Fr/Sa:6AM-4PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7893854648108,
+                "Lng":-122.409591260457
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":219,
+        "name":"Philz Coffee Truck",
+        "facility_type":"Truck",
+        "description":"Hot coffee: iced coffee: hot chocolate: tea: pastries",
+        "address":"401 CALIFORNIA ST",
+        "status":"APPROVED",
+        "opening_times":"Tu/We/Th:6AM-3PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7927957553471,
+                "Lng":-122.401353280921
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":220,
+        "name":"Philz Coffee Truck",
+        "facility_type":"Truck",
+        "description":"Hot coffee: iced coffee: hot chocolate: tea: pastries",
+        "address":"15 MARINA BLVD",
+        "status":"APPROVED",
+        "opening_times":"Sa-Su:6AM-8PM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.8045778828471,
+                "Lng":-122.433010774333
+            },
+            "type":"Point"
+        }
+    },
+    {  
+        "id":222,
+        "name":"BH \u0026 MT LLC",
+        "facility_type":"Truck",
+        "description":"Cold Truck: Breakfast: Sandwiches: Salads: Pre-Packaged Snacks: Beverages",
+        "address":"1265 GROVE ST",
+        "status":"APPROVED",
+        "opening_times":"Mo-Fr:9AM-10AM",
+        "location":{  
+            "coordinates":{  
+                "Lat":37.7757743821951,
+                "Lng":-122.437331607831
+            },
+            "type":"Point"
+        }
+    }
+]

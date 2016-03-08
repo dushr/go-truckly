@@ -1,0 +1,8 @@
+application: go-truckly
+runtime: go
+api_version: go1
+version: 1-0
+
+handlers:
+    - url: /.*
+      script: _go_app
