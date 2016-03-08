@@ -18,4 +18,16 @@ var routes = Routes{
 		"/api/trucks/",
 		Index,
 	},
+	Route{
+		"NewTruck",
+		"POST",
+		"/api/trucks/",
+		NewTruck,
+	},
+	Route{
+		"ImportTrucks",
+		"POST",
+		"/api/import/",
+		ImportTrucks,
+	},
 }

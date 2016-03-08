@@ -7,7 +7,6 @@ import (
 )
 
 type Truck struct {
-	Id          int      `json:"id"`
 	Name        string   `json:"name"`
 	Type        string   `json:"facility_type"`
 	Description string   `json:"description"`
@@ -17,17 +16,25 @@ type Truck struct {
 	Location    Location `json:"location"`
 }
 
-type InterimLocation struct {
+type TruckIndex struct {
+	Name        string
+	Description string
+	Location    appengine.GeoPoint
+}
+
+type Location struct {
 	Coordinates appengine.GeoPoint `json:"coordinates"`
 	Type        string             `json:"type"`
 }
 
-type Location struct {
+type InterimLocation struct {
 	Coordinates [2]float64 `json:"coordinates"`
 	Type        string     `json:"type"`
 }
 
 type Trucks []Truck
+
+type TruckIndexes []TruckIndexes
 
 func (l *Location) UnmarshalJSON(data []byte) error {
 	var il InterimLocation
@@ -35,8 +42,19 @@ func (l *Location) UnmarshalJSON(data []byte) error {
 	if err := json.Unmarshal(data, &il); err != nil {
 		return err
 	}
-	l.Coordinates[0] = il.Coordinates.Lng
-	l.Coordinates[1] = il.Coordinates.Lat
+	l.Coordinates.Lng = il.Coordinates[0]
+	l.Coordinates.Lat = il.Coordinates[1]
 	l.Type = il.Type
 	return nil
+}
+
+func (l *Location) MarshalJSON() ([]byte, error) {
+	var coor [2]float64
+	coor[0] = l.Coordinates.Lng
+	coor[1] = l.Coordinates.Lat
+	il := InterimLocation{
+		Coordinates: coor,
+		Type:        l.Type,
+	}
+	return json.Marshal(&il)
 }
