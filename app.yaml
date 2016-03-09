@@ -1,4 +1,4 @@
-application: go-truckly
+application: go-truckly-dush
 runtime: go
 api_version: go1
 version: 1-0

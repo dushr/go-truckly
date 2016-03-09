@@ -21,33 +21,60 @@ type TruckReturn struct {
 	Data Trucks `json:"data"`
 }
 
-// guestbookKey returns the key used for all guestbook entries.
 func parentTruckKey(c context.Context) *datastore.Key {
-	// The string "default_guestbook" here could be varied to have multiple guestbooks.
 	return datastore.NewKey(c, "TestTruck", "default_truck", 0, nil)
+}
+
+type TruckQuery struct {
+	Latitude  string
+	Longitude string
+	Distance  string
+}
+
+func (t *TruckQuery) GetQuery() string {
+	return fmt.Sprintf("distance(Location, geopoint(%s, %s)) < %s", t.Latitude, t.Longitude, t.Distance)
+}
+
+func (t *TruckQuery) IsValid() bool {
+	if t.Latitude != "" && t.Longitude != "" && t.Distance != "" {
+		return true
+	}
+	return false
+}
+
+func TruckQueryFromRequest(r *http.Request) *TruckQuery {
+	return &TruckQuery{
+		Latitude:  r.FormValue("latitude"),
+		Longitude: r.FormValue("longitude"),
+		Distance:  r.FormValue("distance"),
+	}
 }
 
 func Index(w http.ResponseWriter, r *http.Request) {
 	c := appengine.NewContext(r)
-	latitude := r.FormValue("latitude")
-	longitude := r.FormValue("longitude")
-	distance := r.FormValue("distance")
 	var query string
+	var TruckIds []*datastore.Key
 
-	if latitude != "" && longitude != "" && distance != "" {
-		query = fmt.Sprintf("distance(Location, geopoint(%s, %s)) < %s", latitude, longitude, distance)
+	truckquery := TruckQueryFromRequest(r)
+
+	if truckquery.IsValid() {
+		query = truckquery.GetQuery()
 	} else {
 		query = ""
 	}
 
-	var TruckIds []*datastore.Key
 	index, err := search.Open("TestTruck")
 	if err != nil {
 		http.Error(w, err.Error(), http.StatusInternalServerError)
 		return
 	}
 
-	for t := index.Search(c, query, nil); ; {
+	search_options := search.SearchOptions{
+		Limit:   300,
+		IDsOnly: true,
+	}
+
+	for t := index.Search(c, query, &search_options); ; {
 		var ti TruckIndex
 		id, err := t.Next(&ti)
 		if err == search.Done {
@@ -155,7 +182,6 @@ func ImportTrucks(w http.ResponseWriter, r *http.Request) {
 				http.Error(w, err.Error(), http.StatusInternalServerError)
 				return
 			}
-
 			truckindex := TruckIndex{
 				Name:        truck.Name,
 				Description: truck.Description,
